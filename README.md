@@ -1,2 +1,2 @@
 # tampermonkey_scripts_backup
-scripts_backup
+useful_scripts_backup
